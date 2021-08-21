@@ -13,10 +13,10 @@ To predict the success rate, I had to tackle the problem following the standard 
 -	Perform basic descriptive analysis from the features
 -	Provide necessary EDA
 - Analyzing individual features and see if there's any effect
-•	Prediction_and_performance_comparison.ipynb: This code mainly related with some knowledge from the previous codes and performs prediction:
- o	Perform all necessary feature engineering 
- o	Build the trained model
- o	Make prediction
- o	Evaluate the accuracy of the model
+####	Prediction_and_performance_comparison.ipynb: This code mainly related with some knowledge from the previous codes and performs prediction:
+-	Perform all necessary feature engineering 
+-	Build the trained model
+-	Make prediction
+-	Evaluate the accuracy of the model
 # Results
 From the analysis, I found that the model is required more modification.
