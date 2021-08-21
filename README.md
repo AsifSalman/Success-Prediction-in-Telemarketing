@@ -7,8 +7,8 @@ The task is build an algorithm that indicates the success rate of campaign of th
 # What action did I take?
 To predict the success rate, I had to tackle the problem following the standard data science pipelines. I filled the missing data, analyze the data set, visualized the distribution when necessary, performed feature engineering trained the model and evaluated the performance using different machine learning algorithms. The actions were well described and demonstrated in the codes.
 # Codes
-•	Basic_data _analysis_and_visualization.ipynb: The task of the code can be subdivided in following groups:
- o	Importing the libraries and data set
+-Basic_data _analysis_and_visualization.ipynb: The task of the code can be subdivided in following groups:
+-Importing the libraries and data set
  o	Preprocess the data
  o	Perform basic descriptive analysis from the features
  o	Provide necessary EDA
