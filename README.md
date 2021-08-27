@@ -1,5 +1,5 @@
 # Success-Prediction-in-Telemarketing-
-This repo will guide you through the basic analysis, EDA and the prediction in the success of bank telemarketing.
+This repository will guide you about the success of bank telemarketing through the basic analysis, EDA, and the prediction process.
 # What the project is about?
 The main objective of this project is to handle missing values, explore inter-feature relationship, analyze the relationship and predict the success of bank campaign by telemarketing. The problem statement is as follows and copied directly from UCI (https://archive.ics.uci.edu/ml/index.php). The binary classification goal is to predict if the client will subscribe a bank term deposit.
 # What is the task?
